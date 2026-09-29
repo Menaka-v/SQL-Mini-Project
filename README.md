@@ -21,6 +21,16 @@ The dataset contains details about reservations, cancellations, stay durations, 
 
 Some columns contain missing values, particularly `company`, `agent` and `children`. Country names are represented using three-letter country codes. The dataset also includes reservation status dates, which indicate when a reservation's final status was recorded.
 
+## Dataset Attribution
+
+Dataset: Hotel Booking Demand
+Kaggle publisher: Jesse Mostipak
+Source: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+The dataset is used for educational and portfolio purposes. The original dataset has not been modified.
+
 ## Tools and Skills
 
 This project was completed using **MySQL Workbench 8.0**.
